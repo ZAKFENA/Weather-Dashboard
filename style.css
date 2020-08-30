@@ -1,0 +1,9 @@
+.infoCard {
+  height: 100;
+}
+
+.forecast {
+  background-color: rgb(69, 121, 243);
+  margin: 5px;
+  color: rgb(246, 250, 250);
+}
