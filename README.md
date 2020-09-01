@@ -8,9 +8,5 @@ When a city is searched the weather info for that city is displayed and below th
 
 ## Screen Shot
 
-<<<<<<< HEAD
 ![Image](.Assets/Weather-Dashboard-1.png)
-=======
 ![Image](Weather-Dashboard-1.PNG.png)
-
->>>>>>> 9d984b9681307b66d302542cae876eea044e9724
